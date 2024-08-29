@@ -95,9 +95,9 @@
     .link{
         display: none;
     }
-    .hero__section{
+    /* .hero__section{
         min-width: 80vh;
-    }
+    } */
     .hero__section_container{
         flex-direction: column;
         background-color: transparent;
