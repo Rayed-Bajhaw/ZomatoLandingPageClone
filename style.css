@@ -254,12 +254,13 @@
     align-items: center;
     justify-content: center;
     background-color: rgb(255, 251, 247);
-    width: 100%;
-    padding: 3rem 6rem;
+    width: 80%;
+    /* padding: 3rem 6rem; */
+    padding:10%;
 }
 
 .get__the_app .semiContainer{
-    width: 60%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
